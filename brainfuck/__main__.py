@@ -4,3 +4,4 @@ import brainfuck as bf
 
 brainfuck = bf.Brainfuck()
 
+brainfuck.run()

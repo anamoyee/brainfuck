@@ -1,1 +1,1 @@
-arguably>=1.3.0
+arguably>=1.3.0 # for CLI tool.
