@@ -1,6 +1,3 @@
 # Simple brainfuck interpreter in python.
 
-## Usage:
-```py
-# TODO: impl usage
-```
+`py brainfuck -h` for help.

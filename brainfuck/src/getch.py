@@ -21,6 +21,8 @@ def getch():
     termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
   return ch
 
+
 if __name__ == '__main__':
   print('>>> ', end='', flush=True)
-  print(getch())
+  ch = getch()
+  print(f'{ch} {ch!r}: {ord(ch)}')

@@ -1,1 +1,1 @@
-from .src.bf import Brainfuck
+from .src.bf import Brainfuck, BrainfuckCharset, BrainfuckSyntaxError
